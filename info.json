@@ -1,0 +1,11 @@
+{
+  "name": "necroprocessing",
+  "version": "0.18.0",
+  "factorio_version": "0.18",
+  "title": "Alien Parts Processing ",
+  "author": "Trblz",
+  "contact": "",
+  "homepage": "",
+  "description": "You want killing enemies become more useful and get some more useful stuff in this game? Then this mod is for you. Adds enemy drops and exploitation of their corpses. Also provides fireball (incl. towers) and poison ammo.",
+  "dependencies": ["base >= 0.18.0", "necromant"]
+}

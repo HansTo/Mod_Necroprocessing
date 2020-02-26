@@ -1,0 +1,1 @@
+require("prototypes.items_smelting")

@@ -1,0 +1,1 @@
+requires("protoypes.technology_smelting")
